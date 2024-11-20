@@ -34,7 +34,7 @@ Ejercicios de JAVA
 
 
 9 imprimir numeros del 1 al 9
-![image](https://github.com/user-attachments/assets/5dce57d1-8515-438d-a0f6-def8012671f3)
+![image](https://github.com/user-attachments/assets/be248899-d11e-4fe6-9c40-bfd54af38afa)
 
 
 ### 10 imprimir numeros del 1 al 10000
@@ -44,6 +44,8 @@ Ejercicios de JAVA
 
 
 11 imprimir numeros del 5 al 10
+
+
 ![image](https://github.com/user-attachments/assets/5878d8eb-5161-4466-848e-31b9081f774e)
 
 
