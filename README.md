@@ -66,7 +66,7 @@ Ejercicios de JAVA
 15 imprimir los cuadrados de los 30 primeros números naturales
 ![image](https://github.com/user-attachments/assets/d56480dc-eb02-4662-94aa-ffe6da02a0b1)
 
-###16
+###16 imprimir la multiplicacion de los 20 primeros números naturales
 
 ###17
 
