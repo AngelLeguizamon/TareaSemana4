@@ -1,7 +1,7 @@
 # TareaSemana4
 Ejercicios de JAVA 
 
-##1 imprimir la frase “Hola, ya se imprimir frases”.
+### 1 imprimir la frase “Hola, ya se imprimir frases”.
 ![image](https://github.com/user-attachments/assets/810eb1e1-ebde-4601-b484-7eb187fc90b0)
 
 
