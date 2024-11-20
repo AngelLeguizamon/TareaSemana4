@@ -5,30 +5,30 @@ package tareasemana4;
 public class TareaSemana4 {
     public static void main(String[] args) {
 
-//1 imprimir la frase “Hola, ya se imprimir frases”.
+        //1 imprimir la frase “Hola, ya se imprimir frases”.
         System.out.println("Hola, ya se imprimir frases"); 
 
-//2 imprimir un número entero, porejemplo el 273.
+        //2 imprimir un número entero, porejemplo el 273.
         int z = 273; 
         System.out.println(z); 
 
-//3 imprimir un número decimal, por ejemplo el 5’3.
+        //3 imprimir un número decimal, por ejemplo el 5’3.
         double q = 5.3; 
         System.out.println(q); 
 
-//4 imprimir la suma de 1234 y 532
+        //4 imprimir la suma de 1234 y 532
         System.out.println(1234 + 532);
 
-//5 imprimir la resta de 1234 y 532
+        //5 imprimir la resta de 1234 y 532
         System.out.println(1234 - 532);
 
-//6 imprimir la multiplicación entre 1234 y 532
+        //6 imprimir la multiplicación entre 1234 y 532
         System.out.println(1234 * 532);
 
-//7 imprimir la división de 1234 entre 532.
+        //7 imprimir la división de 1234 entre 532.
         System.out.println(1234 / 532);
 
-//8 imprimir los numeros del 1 al 3
+	//8 imprimir los numeros del 1 al 3
         for (int a = 1; a<=3; a++) {   // Se incrementa a dentro del for ya que
         System.out.println(a); // El operador ++ no se ejecuta dentro del print
         }
