@@ -84,12 +84,7 @@ public class TareaSemana4 {
         } 
         System.out.print(suma+" ");     // Se imprime el resultado final
 
-        //18 imprimir la suma de los cuadrados de los 100 primeros números naturales
-        int sum = 0;                   // en esta variable Se acumulará la suma
-        for (int j = 1; j<=100; j++) {  // Se incrementa j dentro del for
-        sum += j*j;                    // se halla el cuadrado y se suma al anterior
-        } 
-        System.out.print(sum+" ");     // Se imprime el resultado final
+      
 
         }   
 }
