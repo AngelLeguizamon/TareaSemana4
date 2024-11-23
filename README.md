@@ -81,9 +81,13 @@ Ejercicios de JAVA
 
 ### 20
 
-### 21
+### 21 leer dos numeros, e imprimir que numero es mayor y menor
+![Captura de pantalla 2024-11-22 001020](https://github.com/user-attachments/assets/e439d361-8e8a-4317-b858-d4752c6878b8)
 
-### 22
+
+### 22 leer numero entero e imprimir todos los numeros impares menores que el
+![image](https://github.com/user-attachments/assets/23b8cf58-6bd4-4b42-9599-d4f9640e039c)
+
 
 ### 23
 
