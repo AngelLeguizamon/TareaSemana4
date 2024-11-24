@@ -75,11 +75,17 @@ Ejercicios de JAVA
 ![image](https://github.com/user-attachments/assets/c6fb50b6-d84f-4228-9a38-e8b167e8a07d)
 
 
-### 18
+### 18 leer numero entero y realizar la suma de los 100 números siguientes
+![Captura de pantalla 2024-11-21 235726](https://github.com/user-attachments/assets/8017fa7b-9dba-44c5-a22b-c2ac9386088d)
 
-### 19
 
-### 20
+### 19 convertir Euros a Dolares
+![Captura de pantalla 2024-11-22 000338](https://github.com/user-attachments/assets/4701a904-8d06-49ff-acaa-96e804851750)
+
+
+### 20 hallar el area de un rectangulo
+![Captura de pantalla 2024-11-22 001020](https://github.com/user-attachments/assets/001edf08-c7e4-4e5f-909f-150f13dee9d5)
+
 
 ### 21 leer dos numeros, e imprimir que numero es mayor y menor
 ![Captura de pantalla 2024-11-22 001020](https://github.com/user-attachments/assets/e439d361-8e8a-4317-b858-d4752c6878b8)
@@ -90,6 +96,7 @@ Ejercicios de JAVA
 
 
 ### 23
+
 
 ### 24
 
