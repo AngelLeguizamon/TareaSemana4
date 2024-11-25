@@ -100,13 +100,13 @@ Ejercicios de JAVA
 
 
 ### 24 Calcular ecuacion cuadratica dados los valores a, b y c.
-# Una solucion
+Una solucion
 ![image](https://github.com/user-attachments/assets/80973197-8157-4963-b760-cf7441a99d3f)
 
-# Dos soluciones
+Dos soluciones
 ![image](https://github.com/user-attachments/assets/18ed0fe0-c5e7-49fd-aa13-6de67e69e6c5)
 
-# No hay solucion Real
+No hay solucion Real
 ![image](https://github.com/user-attachments/assets/dd6463ef-7fdc-48c1-b8bd-8a14ce790133)
 
 
