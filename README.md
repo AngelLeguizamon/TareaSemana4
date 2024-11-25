@@ -95,10 +95,20 @@ Ejercicios de JAVA
 ![image](https://github.com/user-attachments/assets/23b8cf58-6bd4-4b42-9599-d4f9640e039c)
 
 
-### 23
+### 23 Implementar algoritmo de Euclides para hallar maximo comun divisor (MCD)
+![image](https://github.com/user-attachments/assets/85dcfd1d-038f-4abc-a194-0ccea68b6cbb)
 
 
-### 24
+### 24 Calcular ecuacion cuadratica dados los valores a, b y c.
+# Una solucion
+![image](https://github.com/user-attachments/assets/80973197-8157-4963-b760-cf7441a99d3f)
+
+# Dos soluciones
+![image](https://github.com/user-attachments/assets/18ed0fe0-c5e7-49fd-aa13-6de67e69e6c5)
+
+# No hay solucion Real
+![image](https://github.com/user-attachments/assets/dd6463ef-7fdc-48c1-b8bd-8a14ce790133)
+
 
 ### 25
 
