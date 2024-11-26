@@ -110,7 +110,8 @@ No hay solucion Real
 ![image](https://github.com/user-attachments/assets/dd6463ef-7fdc-48c1-b8bd-8a14ce790133)
 
 
-### 25
+### 25 
+
 
 ### 26
 
